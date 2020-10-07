@@ -32,6 +32,11 @@ li {
   padding: 5px;
 }
 
+.resaltado3 {
+  background-color: rgb(70, 70, 70);
+  margin: 0%;
+  padding: 5px;
+}
 /* contiene hijos 1 y 2 */
 .container-inline {
   display: flex;
@@ -71,13 +76,13 @@ li {
 a:visited {
   color: yellow;
 }
-a:active {
-  color: rgb(153, 0, 255);
+a {
+  color: rgb(217, 255, 0);
 }
 
 a:hover {
-  background-color: violet;
-  color: black;
+  background-color: rgb(96, 0, 160);
+  color: white;
   padding: 1px;
   transition: 200ms;
   border-radius: 3px;
