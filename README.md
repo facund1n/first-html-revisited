@@ -9,5 +9,3 @@ Se pide que apliquen lo visto en la clase 1 referido a html para realizar una we
 <aside>: con tres divs que contengan un texto “Sidebar 1” para la primera posición,  “Sidebar 2” para la segunda posición y “Sidebar 3” para la tercera posición.
 <footer>: deberá contener un párrafo donde diga “Copyright X 2020 - Nombre alumno” (dónde está la X se reemplaza con el símbolo de copyright) seguido de “ | “ y a continuación un link a la home de la web rollingcodeschool.com
 <address>: con el texto “Contacto: ” y un link al email del alumno.
-
-
